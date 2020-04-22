@@ -1,11 +1,32 @@
 import javax.swing.*;
+import java.awt.*;
+import java.awt.image.ImageObserver;
+import java.text.AttributedCharacterIterator;
 
 public class MainApp {
 public  static  void main(String[] args){
-    Gui7 gui= new Gui7();
+
+
+ /*Peach2 p= new Peach2();
+ p.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);*/
+
+  /* JFrame f=new JFrame("title");
+    f.setDefaultCloseOperation(3);
+    Peach peach= new Peach();
+    f.add(peach);
+    f.setSize(600,600);
+    f.setVisible(true);*/
+
+
+   /* Layout layout= new Layout();
+    layout.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    layout.setSize(300,100);
+    layout.setVisible(true);
+*/
+   /* Gui7 gui= new Gui7();
     gui.setDefaultCloseOperation(3);
     gui.setSize(500, 500);
-    gui.setVisible(true);
+    gui.setVisible(true);*/
     /*Gui6 gui= new Gui6();
     gui.setDefaultCloseOperation(3);
     gui.setSize(500, 500);
